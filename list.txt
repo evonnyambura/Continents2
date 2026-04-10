@@ -4,3 +4,9 @@ TZ
 Rwanda
 Sudan
 Ethiopia
+China
+India
+Japan
+Russia
+Iran
+Indonesia
